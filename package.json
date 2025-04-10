@@ -11,7 +11,7 @@
   "dependencies": {
     "@heroicons/react": "^1.0.6",
     "@types/react-date-range": "^1.4.10",
-    "date-fns": "^2.29.3",
+    "date-fns": "^3.0.0",
     "geo-lib": "^0.4.0",
     "geolib": "^3.3.4",
     "leaflet": "^1.9.4",
